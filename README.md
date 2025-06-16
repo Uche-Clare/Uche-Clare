@@ -6,7 +6,7 @@
 
 ### Data Analyst 👩‍💻📊 | Power System Engineering Enthusiast 🛠️
 
-Welcome to my GitHub profile! With three years of hands-on experience, I specialize in data manipulation, wrangling, analysis, and visualization using tools like PowerBI and Excel.
+Welcome to my GitHub profile! With four years of hands-on experience, I specialize in data manipulation, wrangling, analysis, and visualization using tools like PowerBI and Excel.
 
 I'm currently rebranding my portfolio and would love for you to join me on this exciting journey.
 
