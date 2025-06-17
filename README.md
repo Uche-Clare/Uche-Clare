@@ -4,7 +4,7 @@
 
 ## Hi there! I'm Clare Uche 😉
 
-### Data Analyst 👩‍💻📊 | Power System Engineering Enthusiast 🛠️
+### Data Analyst 👩‍💻📊 | Sustainable Energy enthusiast  🛠️
 
 Welcome to my GitHub profile! With four years of hands-on experience, I specialize in data manipulation, wrangling, analysis, and visualization using tools like PowerBI and Excel.
 
